@@ -15,7 +15,7 @@ A tour agency website built using React that provides information about various 
 
 ## Live Demo
 
-Check out the live version of the app here: [Backroads App]([https://backroads-tour-agency-app.netlify.app/](https://backroads-tour-agency.netlify.app/))
+Check out the live version of the app here: [Backroads App](https://backroads-tour-agency.netlify.app/)
 
 ## Features
 
