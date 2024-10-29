@@ -10,8 +10,6 @@ A tour agency website built using React that provides information about various 
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Deployment](#deployment)
-- [License](#license)
 
 ## Live Demo
 
